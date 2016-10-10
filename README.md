@@ -1,5 +1,8 @@
 # hello-world
 git 练习项目
 
-不同语言输出 hello world，限一个文件
-如`helloworld.cpp`
+pull 一个文件 文件名为 `helloworld-xxx.cpp` 其中xxx为姓名
+文件内容包含
+```
+cout<<"xxx get~";
+```
